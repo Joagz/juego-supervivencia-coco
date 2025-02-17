@@ -19,7 +19,7 @@ namespace nivel_2
 
     if (random_float < 0.5f)
     {
-      std::cout << " causando heridas graves. El lobo te tira al suelo y muerde tu yugular, causando tu muere. FIN" << std::endl;
+      std::cout << " causando heridas graves. El lobo te tira al suelo y muerde tu yugular, causando tu muerte. FIN" << std::endl;
       exit(0);
     }
 
